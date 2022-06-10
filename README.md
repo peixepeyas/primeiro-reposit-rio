@@ -1,2 +1,2 @@
-# primeiro-reposit-rio
+# primeiro-repositorio
 dio desafio git hub
